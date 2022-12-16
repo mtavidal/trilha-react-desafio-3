@@ -1,3 +1,10 @@
+# Desafio de projeto DIO
+
+### Este repositório é um Desafio de projeto DIO, no qual foi desenvolvido páginas para a plataforma DIO, utilizando React CLI, Estilização com styled-components, Hooks e Formulários.
+
+Nesta versão foi adicionado:
+- Tela de cadastro e seus componentes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
